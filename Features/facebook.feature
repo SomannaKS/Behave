@@ -4,4 +4,3 @@ Feature:
     When open facebook home page
     Then verify the logo presence
     And close browser
-    git config --global user.email "somasamarth@gmail.com"
